@@ -1,4 +1,4 @@
-import { Equal, Expect } from "../helper";
+import type { Equal, Expect } from "../helper";
 import type { Tagged } from "type-fest";
 
 // Tagged 타입을 사용하여 UserId를 정의합니다. UserId는 number이지만, Tagged를 사용하여 고유한 타입으로 만듭니다.
