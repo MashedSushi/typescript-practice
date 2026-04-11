@@ -1,4 +1,4 @@
-import { Equal, Expect } from "../helper";
+import type { Equal, Expect } from "../helper";
 import type { EmptyObject } from "type-fest";
 
 
